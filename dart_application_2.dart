@@ -26,7 +26,7 @@ void main() {
    print("Ekuke's day end status:");
    print("hunger:$hunger, happiness:$happiness, Energy:$energy");
    if(hunger < 5 && happiness >= 8 && energy >= 6){
-     print("Ekuke is not hungry, it is happy and has optimum energy");
+     print("Ekuke is not hungry, he is happy and has optimum energy");
    } else {
      print("Ekuke needs more attention to stay happy and healthy");
    }
