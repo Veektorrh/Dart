@@ -1,2 +1,2 @@
 # Dart
-Documenting Dart Progress
+Documenting Dart Language Progress, including DSA challenges
